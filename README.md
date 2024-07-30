@@ -31,4 +31,3 @@ I'm a passionate front-end developer and recent graduate in Computer Science and
 
 Feel free to reach out if you’d like to collaborate on a project or just want to say hi!
 
-![Profile views](https://gpvc.arturio.dev/yourusername) <!-- Update with actual username -->
